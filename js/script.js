@@ -6,8 +6,6 @@ const over65 = 0.6;
 //dati calcolo biglietto
 let age;
 let userKm;
-let normalPrice;
-let discountPrice;
 
 
 const btnInput = document.getElementById('btn-input');
